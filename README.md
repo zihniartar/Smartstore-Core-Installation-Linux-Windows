@@ -1,4 +1,4 @@
-# Installation instructions for various Linux distributions and Windows
+# Installation instructions for Smartstore Core on various Linux distributions and Windows
 
 | OS/Distro               |German                          |English                         |
 |----------------|-------------------------------|-----------------------------|
